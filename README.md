@@ -40,5 +40,5 @@ $ pytest
 
 1. Write a `TestCase` class, maybe `ValidCreditCardTest`.
 2. Turn the functions into methods of the class.
-3. Write another `TestCase` class (maybe `CardIssuerConfusionTest`) to cover negating cases.
+3. Write another `TestCase` class (maybe `CardIssuerConfusionTest`) to cover negative cases.
 (Invalid card numbers, like VISA marked as MasterCard)
